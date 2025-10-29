@@ -6,9 +6,9 @@
 
 
 ## Problem statement
-I'm sure everyone's gone through the stress of managing all our expenses, even for students like us, who are aware of economic challenges. You need to achieve any goals in terms of savings, keep track of people borrowing your cash in the digital world? This program is aimed to keep track of all these small and minor inconveniences with simple inputs.
+In today's world, managing finances can be a significant source of stress, particularly for students navigating economic uncertainties. The need to save towards goals and track personal loans often goes unaddressed in our digital lives. This application aims to simplify financial management by providing a user-friendly platform to record expenses, track loans, and set savings goals.
 
-Sure, there are other ways for 1 to record their expenses , like in a notebook, but what happens if it were to get lost? This project will be programmed to be accesible on your choice of device. 
+While alternative methods for expense tracking exist, such as notebooks, the risk of data loss through physical damage or misplacement remains a concern. This project is designed to be device-accessible, ensuring data security and accessibility.
 
 ## Problem objectives
 1. Keeping records of the history of finances
@@ -16,9 +16,9 @@ Sure, there are other ways for 1 to record their expenses , like in a notebook, 
 
 ## Planned features
 1. Checks whether you're under your saving goals, by tracking the amount of time left until the due.
-2. Inputs of your recent purchases like receipts
-3. Inputs receipts of recent loans to others
-4. Wishlist (of some sorts)
+2. Inputs of your recent purchases, like receipts
+3. Input receipts of recent loans to others
+4. Wishlist (of some sort)
  
 ## Planned inputs (All text entries)
 (Inputs)
@@ -26,7 +26,7 @@ Sure, there are other ways for 1 to record their expenses , like in a notebook, 
    - Due date
 - Recent purchases
 - Items you want to be added to your wishlist
-- Recents loans 
+- Recent loans 
    - Asks if you loaned it to someone, or someone loaned it to you
    - Due
    - The Amount
